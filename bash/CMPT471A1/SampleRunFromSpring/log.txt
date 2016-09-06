@@ -1,0 +1,1031 @@
+
+======================================================================================
+Scanning "admin" network by IP addresses
+======================================================================================
+Host with IP address 192.168.0.1 is reachable from spring
+IP address 192.168.0.1 belongs to january.admin with Ethernet address 00:50:56:A4:37:65 over interface eth0 
+Path to reach IP address 192.168.0.1 (january.admin) from 192.168.0.1 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.189ms pmtu 1500
+ 1:  january.admin (192.168.0.1)                            0.397ms reached
+ 1:  january.admin (192.168.0.1)                            0.224ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.2 is reachable from spring
+IP address 192.168.0.2 belongs to february.admin with Ethernet address 00:50:56:A4:58:C7 over interface eth0 
+Path to reach IP address 192.168.0.2 (february.admin) from 192.168.0.2 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.164ms pmtu 1500
+ 1:  february.admin (192.168.0.2)                           0.397ms reached
+ 1:  february.admin (192.168.0.2)                           0.156ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.3 is reachable from spring
+IP address 192.168.0.3 belongs to march.admin with Ethernet address 00:50:56:A4:75:D8 over interface eth0 
+Path to reach IP address 192.168.0.3 (march.admin) from 192.168.0.3 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.164ms pmtu 1500
+ 1:  march.admin (192.168.0.3)                              0.232ms reached
+ 1:  march.admin (192.168.0.3)                              0.128ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.4 is reachable from spring
+IP address 192.168.0.4 belongs to april.admin with Ethernet address 00:50:56:A4:4C:9D over interface eth0 
+Path to reach IP address 192.168.0.4 (april.admin) from 192.168.0.4 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.159ms pmtu 1500
+ 1:  april.admin (192.168.0.4)                              0.365ms reached
+ 1:  april.admin (192.168.0.4)                              0.130ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.5 is reachable from spring
+IP address 192.168.0.5 belongs to may.admin with Ethernet address 00:50:56:A4:26:E9 over interface eth0 
+Path to reach IP address 192.168.0.5 (may.admin) from 192.168.0.5 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.187ms pmtu 1500
+ 1:  may.admin (192.168.0.5)                                0.319ms reached
+ 1:  may.admin (192.168.0.5)                                0.119ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.6 is reachable from spring
+IP address 192.168.0.6 belongs to june.admin with Ethernet address 00:50:56:A4:00:51 over interface eth0 
+Path to reach IP address 192.168.0.6 (june.admin) from 192.168.0.6 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.162ms pmtu 1500
+ 1:  june.admin (192.168.0.6)                               0.266ms reached
+ 1:  june.admin (192.168.0.6)                               0.174ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.7 is reachable from spring
+IP address 192.168.0.7 belongs to july.admin with Ethernet address 00:50:56:A4:3A:91 over interface eth0 
+Path to reach IP address 192.168.0.7 (july.admin) from 192.168.0.7 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.166ms pmtu 1500
+ 1:  july.admin (192.168.0.7)                               0.616ms reached
+ 1:  july.admin (192.168.0.7)                               0.310ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.8 is reachable from spring
+IP address 192.168.0.8 belongs to august.admin with Ethernet address 00:50:56:A4:1D:77 over interface eth0 
+Path to reach IP address 192.168.0.8 (august.admin) from 192.168.0.8 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.212ms pmtu 1500
+ 1:  august.admin (192.168.0.8)                             0.204ms reached
+ 1:  august.admin (192.168.0.8)                             0.148ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.9 is reachable from spring
+IP address 192.168.0.9 belongs to september.admin with Ethernet address 00:50:56:A4:48:F1 over interface eth0 
+Path to reach IP address 192.168.0.9 (september.admin) from 192.168.0.9 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.160ms pmtu 1500
+ 1:  september.admin (192.168.0.9)                          0.360ms reached
+ 1:  september.admin (192.168.0.9)                          0.151ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.10 is reachable from spring
+IP address 192.168.0.10 belongs to october.admin with Ethernet address 00:50:56:A4:34:D8 over interface eth0 
+Path to reach IP address 192.168.0.10 (october.admin) from 192.168.0.10 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.162ms pmtu 1500
+ 1:  october.admin (192.168.0.10)                           0.242ms reached
+ 1:  october.admin (192.168.0.10)                           0.177ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.11 is reachable from spring
+IP address 192.168.0.11 belongs to november.admin with Ethernet address 00:50:56:A4:2B:44 over interface eth0 
+Path to reach IP address 192.168.0.11 (november.admin) from 192.168.0.11 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.159ms pmtu 1500
+ 1:  november.admin (192.168.0.11)                          0.365ms reached
+ 1:  november.admin (192.168.0.11)                          0.127ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.12 is reachable from spring
+IP address 192.168.0.12 belongs to december.admin with Ethernet address 00:50:56:A4:17:24 over interface eth0 
+Path to reach IP address 192.168.0.12 (december.admin) from 192.168.0.12 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.166ms pmtu 1500
+ 1:  december.admin (192.168.0.12)                          0.472ms reached
+ 1:  december.admin (192.168.0.12)                          0.131ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.13 is reachable from spring
+IP address 192.168.0.13 belongs to summer.admin with Ethernet address 00:50:56:A4:7B:CB over interface eth0 
+Path to reach IP address 192.168.0.13 (summer.admin) from 192.168.0.13 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.158ms pmtu 1500
+ 1:  summer.admin (192.168.0.13)                            0.547ms reached
+ 1:  summer.admin (192.168.0.13)                            0.288ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.14 is reachable from spring
+IP address 192.168.0.14 belongs to fall.admin with Ethernet address 00:50:56:A4:69:4A over interface eth0 
+Path to reach IP address 192.168.0.14 (fall.admin) from 192.168.0.14 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.193ms pmtu 1500
+ 1:  fall.admin (192.168.0.14)                              0.391ms reached
+ 1:  fall.admin (192.168.0.14)                              0.171ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.15 is reachable from spring
+IP address 192.168.0.15 belongs to winter.admin with Ethernet address 00:50:56:A4:49:43 over interface eth0 
+Path to reach IP address 192.168.0.15 (winter.admin) from 192.168.0.15 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.166ms pmtu 1500
+ 1:  winter.admin (192.168.0.15)                            0.321ms reached
+ 1:  winter.admin (192.168.0.15)                            0.379ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.16 is reachable from spring
+IP address 192.168.0.16 belongs to equinox.admin with Ethernet address 00:50:56:A4:22:68 over interface eth0 
+Path to reach IP address 192.168.0.16 (equinox.admin) from 192.168.0.16 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.155ms pmtu 1500
+ 1:  equinox.admin (192.168.0.16)                           0.430ms reached
+ 1:  equinox.admin (192.168.0.16)                           0.130ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.17 is reachable from spring
+IP address 192.168.0.17 belongs to solstice.admin with Ethernet address 00:50:56:A4:26:03 over interface eth0 
+Path to reach IP address 192.168.0.17 (solstice.admin) from 192.168.0.17 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.284ms pmtu 1500
+ 1:  solstice.admin (192.168.0.17)                          0.332ms reached
+ 1:  solstice.admin (192.168.0.17)                          0.161ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.18 is reachable from spring
+IP address 192.168.0.18 belongs to year.admin with Ethernet address 00:50:56:A4:15:94 over interface eth0 
+Path to reach IP address 192.168.0.18 (year.admin) from 192.168.0.18 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.162ms pmtu 1500
+ 1:  year.admin (192.168.0.18)                              0.267ms reached
+ 1:  year.admin (192.168.0.18)                              1.676ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.19 is reachable from spring
+IP address 192.168.0.19 belongs to autumn.admin with Ethernet address 00:50:56:A4:1E:F2 over interface eth0 
+Path to reach IP address 192.168.0.19 (autumn.admin) from 192.168.0.19 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.213ms pmtu 1500
+ 1:  autumn.admin (192.168.0.19)                            0.410ms reached
+ 1:  autumn.admin (192.168.0.19)                            0.191ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 192.168.0.20 is reachable from spring
+IP address 192.168.0.20 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 192.168.0.20 (arp:) from 192.168.0.20 (spring) is:
+ 1:  spring.admin (192.168.0.20)                            0.155ms pmtu 16436
+ 1:  spring.admin (192.168.0.20)                            0.051ms reached
+ 1:  spring.admin (192.168.0.20)                            0.029ms reached
+     Resume: pmtu 16436 hops 1 back 64 
+
+Host with IP address 192.168.0.21 is not reachable from spring or is not part of admin network
+
+======================================================================================
+Scanning "admin" network by hostnames
+======================================================================================
+Host with hostname "january.admin" is reachable from spring
+Host "january.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:37:65 over interface eth0 and IP address 192.168.0.1 
+Path to reach "january.admin" (january.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.157ms pmtu 1500
+ 1:  january.admin (192.168.0.1)                            0.224ms reached
+ 1:  january.admin (192.168.0.1)                            0.108ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "february.admin" is reachable from spring
+Host "february.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:58:C7 over interface eth0 and IP address 192.168.0.2 
+Path to reach "february.admin" (february.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.185ms pmtu 1500
+ 1:  february.admin (192.168.0.2)                           0.244ms reached
+ 1:  february.admin (192.168.0.2)                           0.168ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "march.admin" is reachable from spring
+Host "march.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:75:D8 over interface eth0 and IP address 192.168.0.3 
+Path to reach "march.admin" (march.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.146ms pmtu 1500
+ 1:  march.admin (192.168.0.3)                              0.323ms reached
+ 1:  march.admin (192.168.0.3)                              0.214ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "april.admin" is reachable from spring
+Host "april.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:4C:9D over interface eth0 and IP address 192.168.0.4 
+Path to reach "april.admin" (april.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.160ms pmtu 1500
+ 1:  april.admin (192.168.0.4)                              0.178ms reached
+ 1:  april.admin (192.168.0.4)                              0.126ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "may.admin" is reachable from spring
+Host "may.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:26:E9 over interface eth0 and IP address 192.168.0.5 
+Path to reach "may.admin" (may.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.178ms pmtu 1500
+ 1:  may.admin (192.168.0.5)                                0.284ms reached
+ 1:  may.admin (192.168.0.5)                                0.180ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "june.admin" is reachable from spring
+Host "june.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:00:51 over interface eth0 and IP address 192.168.0.6 
+Path to reach "june.admin" (june.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.159ms pmtu 1500
+ 1:  june.admin (192.168.0.6)                               0.260ms reached
+ 1:  june.admin (192.168.0.6)                               0.173ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "july.admin" is reachable from spring
+Host "july.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:3A:91 over interface eth0 and IP address 192.168.0.7 
+Path to reach "july.admin" (july.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.157ms pmtu 1500
+ 1:  july.admin (192.168.0.7)                               0.300ms reached
+ 1:  july.admin (192.168.0.7)                               0.107ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "august.admin" is reachable from spring
+Host "august.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:1D:77 over interface eth0 and IP address 192.168.0.8 
+Path to reach "august.admin" (august.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.181ms pmtu 1500
+ 1:  august.admin (192.168.0.8)                             0.265ms reached
+ 1:  august.admin (192.168.0.8)                             0.116ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "september.admin" is reachable from spring
+Host "september.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:48:F1 over interface eth0 and IP address 192.168.0.9 
+Path to reach "september.admin" (september.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.169ms pmtu 1500
+ 1:  september.admin (192.168.0.9)                          0.308ms reached
+ 1:  september.admin (192.168.0.9)                          0.160ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "october.admin" is reachable from spring
+Host "october.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:34:D8 over interface eth0 and IP address 192.168.0.10 
+Path to reach "october.admin" (october.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.176ms pmtu 1500
+ 1:  october.admin (192.168.0.10)                           0.291ms reached
+ 1:  october.admin (192.168.0.10)                           0.232ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "november.admin" is reachable from spring
+Host "november.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:2B:44 over interface eth0 and IP address 192.168.0.11 
+Path to reach "november.admin" (november.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.180ms pmtu 1500
+ 1:  november.admin (192.168.0.11)                          0.269ms reached
+ 1:  november.admin (192.168.0.11)                          0.162ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "december.admin" is reachable from spring
+Host "december.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:17:24 over interface eth0 and IP address 192.168.0.12 
+Path to reach "december.admin" (december.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.266ms pmtu 1500
+ 1:  december.admin (192.168.0.12)                          0.250ms reached
+ 1:  december.admin (192.168.0.12)                          0.157ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "summer.admin" is reachable from spring
+Host "summer.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:7B:CB over interface eth0 and IP address 192.168.0.13 
+Path to reach "summer.admin" (summer.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.196ms pmtu 1500
+ 1:  summer.admin (192.168.0.13)                            0.396ms reached
+ 1:  summer.admin (192.168.0.13)                            0.130ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "fall.admin" is reachable from spring
+Host "fall.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:69:4A over interface eth0 and IP address 192.168.0.14 
+Path to reach "fall.admin" (fall.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.141ms pmtu 1500
+ 1:  fall.admin (192.168.0.14)                              0.342ms reached
+ 1:  fall.admin (192.168.0.14)                              0.116ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "winter.admin" is reachable from spring
+Host "winter.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:49:43 over interface eth0 and IP address 192.168.0.15 
+Path to reach "winter.admin" (winter.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.271ms pmtu 1500
+ 1:  winter.admin (192.168.0.15)                            0.302ms reached
+ 1:  winter.admin (192.168.0.15)                            0.216ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "equinox.admin" is reachable from spring
+Host "equinox.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:22:68 over interface eth0 and IP address 192.168.0.16 
+Path to reach "equinox.admin" (equinox.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.168ms pmtu 1500
+ 1:  equinox.admin (192.168.0.16)                           0.438ms reached
+ 1:  equinox.admin (192.168.0.16)                           0.215ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "solstice.admin" is reachable from spring
+Host "solstice.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:26:03 over interface eth0 and IP address 192.168.0.17 
+Path to reach "solstice.admin" (solstice.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.199ms pmtu 1500
+ 1:  solstice.admin (192.168.0.17)                          0.286ms reached
+ 1:  solstice.admin (192.168.0.17)                          0.146ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "year.admin" is reachable from spring
+Host "year.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:15:94 over interface eth0 and IP address 192.168.0.18 
+Path to reach "year.admin" (year.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.155ms pmtu 1500
+ 1:  year.admin (192.168.0.18)                              0.338ms reached
+ 1:  year.admin (192.168.0.18)                              0.334ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "autumn.admin" is reachable from spring
+Host "autumn.admin" belongs to "admin" network with Ethernet address 00:50:56:A4:1E:F2 over interface eth0 and IP address 192.168.0.19 
+Path to reach "autumn.admin" (autumn.admin) on subnetwork admin from "spring" on subnetwork admin is:
+ 1:  spring.admin (192.168.0.20)                            0.165ms pmtu 1500
+ 1:  autumn.admin (192.168.0.19)                            0.296ms reached
+ 1:  autumn.admin (192.168.0.19)                            0.131ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+======================================================================================
+Scanning "net16" network by IP addresses
+======================================================================================
+Host with IP address 172.16.1.1 is reachable from spring
+IP address 172.16.1.1 belongs to january.net16 with Ethernet address 00:50:56:A4:0B:BB over interface eth1 
+Path to reach IP address 172.16.1.1 (january.net16) from 172.16.1.1 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.157ms pmtu 1500
+ 1:  january.net16 (172.16.1.1)                             0.413ms reached
+ 1:  january.net16 (172.16.1.1)                             0.134ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 172.16.1.2 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.3 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.4 is reachable from spring
+IP address 172.16.1.4 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.16.1.4 (arp:) from 172.16.1.4 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.192ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.290ms 
+ 1:  january.net17 (172.17.1.1)                             0.160ms 
+ 2:  april.net16 (172.16.1.4)                               0.864ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host with IP address 172.16.1.5 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.6 is reachable from spring
+IP address 172.16.1.6 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.16.1.6 (arp:) from 172.16.1.6 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.153ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.300ms 
+ 1:  january.net17 (172.17.1.1)                             0.154ms 
+ 2:  june.net16 (172.16.1.6)                                0.694ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host with IP address 172.16.1.7 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.8 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.9 is reachable from spring
+IP address 172.16.1.9 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.16.1.9 (arp:) from 172.16.1.9 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.156ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.349ms 
+ 1:  january.net17 (172.17.1.1)                             0.124ms 
+ 2:  september.net16 (172.16.1.9)                           0.723ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host with IP address 172.16.1.10 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.11 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.12 is reachable from spring
+IP address 172.16.1.12 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.16.1.12 (arp:) from 172.16.1.12 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.160ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.250ms 
+ 1:  january.net17 (172.17.1.1)                             0.126ms 
+ 2:  december.net16 (172.16.1.12)                           0.504ms reached
+     Resume: pmtu 1500 hops 2 back 62 
+
+Host with IP address 172.16.1.13 is reachable from spring
+IP address 172.16.1.13 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.16.1.13 (arp:) from 172.16.1.13 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.159ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.262ms 
+ 1:  january.net17 (172.17.1.1)                             1.116ms 
+ 2:  summer.net16 (172.16.1.13)                             0.790ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host with IP address 172.16.1.14 is reachable from spring
+IP address 172.16.1.14 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.16.1.14 (arp:) from 172.16.1.14 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.165ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.192ms 
+ 1:  january.net17 (172.17.1.1)                             0.419ms 
+ 2:  fall.net16 (172.16.1.14)                               0.903ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host with IP address 172.16.1.15 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.16 is reachable from spring
+IP address 172.16.1.16 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.16.1.16 (arp:) from 172.16.1.16 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.156ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.285ms 
+ 1:  january.net17 (172.17.1.1)                             0.125ms 
+ 2:  equinox.net16 (172.16.1.16)                            0.743ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host with IP address 172.16.1.17 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.18 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.19 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.20 is not reachable from spring or is not part of net16 network
+
+Host with IP address 172.16.1.21 is not reachable from spring or is not part of net16 network
+
+======================================================================================
+Scanning "net16" network by hostnames
+======================================================================================
+Host with hostname "january.net16" is reachable from spring
+Host "january.net16" belongs to "net16" network with Ethernet address 00:50:56:A4:0B:BB over interface eth1 and IP address 172.16.1.1 
+Path to reach "january.net16" (january.net16) on subnetwork net16 from "spring" on subnetwork net16 is:
+ 1:  spring.net17 (172.17.1.20)                             0.152ms pmtu 1500
+ 1:  january.net16 (172.16.1.1)                             0.333ms reached
+ 1:  january.net16 (172.16.1.1)                             0.217ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host february.net16 is not reachable from spring or is not part of net16 network
+
+Host march.net16 is not reachable from spring or is not part of net16 network
+
+Host with hostname "april.net16" is reachable from spring
+Host "april.net16" belongs to "net16" network with Ethernet address entries over interface found. and IP address 172.16.1.4 
+Path to reach "april.net16" (arp:) on subnetwork net16 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.189ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.228ms 
+ 1:  january.net17 (172.17.1.1)                             0.163ms 
+ 2:  april.net16 (172.16.1.4)                               0.728ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host may.net16 is not reachable from spring or is not part of net16 network
+
+Host with hostname "june.net16" is reachable from spring
+Host "june.net16" belongs to "net16" network with Ethernet address entries over interface found. and IP address 172.16.1.6 
+Path to reach "june.net16" (arp:) on subnetwork net16 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.151ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.279ms 
+ 1:  january.net17 (172.17.1.1)                             0.180ms 
+ 2:  june.net16 (172.16.1.6)                                0.776ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host july.net16 is not reachable from spring or is not part of net16 network
+
+Host august.net16 is not reachable from spring or is not part of net16 network
+
+Host with hostname "september.net16" is reachable from spring
+Host "september.net16" belongs to "net16" network with Ethernet address entries over interface found. and IP address 172.16.1.9 
+Path to reach "september.net16" (arp:) on subnetwork net16 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.189ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.267ms 
+ 1:  january.net17 (172.17.1.1)                             0.176ms 
+ 2:  september.net16 (172.16.1.9)                           1.558ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host october.net16 is not reachable from spring or is not part of net16 network
+
+Host november.net16 is not reachable from spring or is not part of net16 network
+
+Host with hostname "december.net16" is reachable from spring
+Host "december.net16" belongs to "net16" network with Ethernet address entries over interface found. and IP address 172.16.1.12 
+Path to reach "december.net16" (arp:) on subnetwork net16 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.173ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.276ms 
+ 1:  january.net17 (172.17.1.1)                             0.158ms 
+ 2:  december.net16 (172.16.1.12)                           0.643ms reached
+     Resume: pmtu 1500 hops 2 back 62 
+
+Host with hostname "summer.net16" is reachable from spring
+Host "summer.net16" belongs to "net16" network with Ethernet address entries over interface found. and IP address 172.16.1.13 
+Path to reach "summer.net16" (arp:) on subnetwork net16 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.367ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.256ms 
+ 1:  january.net17 (172.17.1.1)                             0.153ms 
+ 2:  summer.net16 (172.16.1.13)                             0.775ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host with hostname "fall.net16" is reachable from spring
+Host "fall.net16" belongs to "net16" network with Ethernet address entries over interface found. and IP address 172.16.1.14 
+Path to reach "fall.net16" (arp:) on subnetwork net16 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.157ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.873ms 
+ 1:  january.net17 (172.17.1.1)                             0.120ms 
+ 2:  fall.net16 (172.16.1.14)                               0.839ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host winter.net16 is not reachable from spring or is not part of net16 network
+
+Host with hostname "equinox.net16" is reachable from spring
+Host "equinox.net16" belongs to "net16" network with Ethernet address entries over interface found. and IP address 172.16.1.16 
+Path to reach "equinox.net16" (arp:) on subnetwork net16 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.150ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.332ms 
+ 1:  january.net17 (172.17.1.1)                             0.206ms 
+ 2:  equinox.net16 (172.16.1.16)                            0.907ms reached
+     Resume: pmtu 1500 hops 2 back 61 
+
+Host solstice.net16 is not reachable from spring or is not part of net16 network
+
+Host year.net16 is not reachable from spring or is not part of net16 network
+
+Host autumn.net16 is not reachable from spring or is not part of net16 network
+
+======================================================================================
+Scanning "net17" network by IP addresses
+======================================================================================
+Host with IP address 172.17.1.1 is reachable from spring
+IP address 172.17.1.1 belongs to january.net17 with Ethernet address 00:50:56:A4:0B:BB over interface eth1 
+Path to reach IP address 172.17.1.1 (january.net17) from 172.17.1.1 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.160ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.435ms reached
+ 1:  january.net17 (172.17.1.1)                             0.159ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 172.17.1.2 is reachable from spring
+IP address 172.17.1.2 belongs to february.net17 with Ethernet address 00:50:56:A4:6A:0D over interface eth1 
+Path to reach IP address 172.17.1.2 (february.net17) from 172.17.1.2 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.194ms pmtu 1500
+ 1:  february.net17 (172.17.1.2)                            0.259ms reached
+ 1:  february.net17 (172.17.1.2)                            0.227ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 172.17.1.3 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.4 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.5 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.6 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.7 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.8 is reachable from spring
+IP address 172.17.1.8 belongs to august.net17 with Ethernet address 00:50:56:A4:05:33 over interface eth1 
+Path to reach IP address 172.17.1.8 (august.net17) from 172.17.1.8 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.162ms pmtu 1500
+ 1:  august.net17 (172.17.1.8)                              0.276ms reached
+ 1:  august.net17 (172.17.1.8)                              0.156ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 172.17.1.9 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.10 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.11 is reachable from spring
+IP address 172.17.1.11 belongs to november.net17 with Ethernet address 00:50:56:A4:58:AC over interface eth1 
+Path to reach IP address 172.17.1.11 (november.net17) from 172.17.1.11 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.152ms pmtu 1500
+ 1:  november.net17 (172.17.1.11)                           0.263ms reached
+ 1:  november.net17 (172.17.1.11)                           0.141ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 172.17.1.12 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.13 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.14 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.15 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.16 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.17 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.18 is not reachable from spring or is not part of net17 network
+
+Host with IP address 172.17.1.19 is reachable from spring
+IP address 172.17.1.19 belongs to autumn.net17 with Ethernet address 00:50:56:A4:67:5E over interface eth1 
+Path to reach IP address 172.17.1.19 (autumn.net17) from 172.17.1.19 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.159ms pmtu 1500
+ 1:  autumn.net17 (172.17.1.19)                             0.355ms reached
+ 1:  autumn.net17 (172.17.1.19)                             0.176ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with IP address 172.17.1.20 is reachable from spring
+IP address 172.17.1.20 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.17.1.20 (arp:) from 172.17.1.20 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.128ms pmtu 16436
+ 1:  spring.net17 (172.17.1.20)                             0.046ms reached
+ 1:  spring.net17 (172.17.1.20)                             0.125ms reached
+     Resume: pmtu 16436 hops 1 back 64 
+
+Host with IP address 172.17.1.21 is not reachable from spring or is not part of net17 network
+
+======================================================================================
+Scanning "net17" network by hostnames
+======================================================================================
+Host with hostname "january.net17" is reachable from spring
+Host "january.net17" belongs to "net17" network with Ethernet address 00:50:56:A4:0B:BB over interface eth1 and IP address 172.17.1.1 
+Path to reach "january.net17" (january.net17) on subnetwork net17 from "spring" on subnetwork net17 is:
+ 1:  spring.net17 (172.17.1.20)                             0.162ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.295ms reached
+ 1:  january.net17 (172.17.1.1)                             0.214ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host with hostname "february.net17" is reachable from spring
+Host "february.net17" belongs to "net17" network with Ethernet address 00:50:56:A4:6A:0D over interface eth1 and IP address 172.17.1.2 
+Path to reach "february.net17" (february.net17) on subnetwork net17 from "spring" on subnetwork net17 is:
+ 1:  spring.net17 (172.17.1.20)                             0.139ms pmtu 1500
+ 1:  february.net17 (172.17.1.2)                            0.191ms reached
+ 1:  february.net17 (172.17.1.2)                            0.146ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host march.net17 is not reachable from spring or is not part of net17 network
+
+Host april.net17 is not reachable from spring or is not part of net17 network
+
+Host may.net17 is not reachable from spring or is not part of net17 network
+
+Host june.net17 is not reachable from spring or is not part of net17 network
+
+Host july.net17 is not reachable from spring or is not part of net17 network
+
+Host with hostname "august.net17" is reachable from spring
+Host "august.net17" belongs to "net17" network with Ethernet address 00:50:56:A4:05:33 over interface eth1 and IP address 172.17.1.8 
+Path to reach "august.net17" (august.net17) on subnetwork net17 from "spring" on subnetwork net17 is:
+ 1:  spring.net17 (172.17.1.20)                             0.147ms pmtu 1500
+ 1:  august.net17 (172.17.1.8)                              0.281ms reached
+ 1:  august.net17 (172.17.1.8)                              0.229ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host september.net17 is not reachable from spring or is not part of net17 network
+
+Host october.net17 is not reachable from spring or is not part of net17 network
+
+Host with hostname "november.net17" is reachable from spring
+Host "november.net17" belongs to "net17" network with Ethernet address 00:50:56:A4:58:AC over interface eth1 and IP address 172.17.1.11 
+Path to reach "november.net17" (november.net17) on subnetwork net17 from "spring" on subnetwork net17 is:
+ 1:  spring.net17 (172.17.1.20)                             0.180ms pmtu 1500
+ 1:  november.net17 (172.17.1.11)                           0.320ms reached
+ 1:  november.net17 (172.17.1.11)                           0.272ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+Host december.net17 is not reachable from spring or is not part of net17 network
+
+Host summer.net17 is not reachable from spring or is not part of net17 network
+
+Host fall.net17 is not reachable from spring or is not part of net17 network
+
+Host winter.net17 is not reachable from spring or is not part of net17 network
+
+Host equinox.net17 is not reachable from spring or is not part of net17 network
+
+Host solstice.net17 is not reachable from spring or is not part of net17 network
+
+Host year.net17 is not reachable from spring or is not part of net17 network
+
+Host with hostname "autumn.net17" is reachable from spring
+Host "autumn.net17" belongs to "net17" network with Ethernet address 00:50:56:A4:67:5E over interface eth1 and IP address 172.17.1.19 
+Path to reach "autumn.net17" (autumn.net17) on subnetwork net17 from "spring" on subnetwork net17 is:
+ 1:  spring.net17 (172.17.1.20)                             0.250ms pmtu 1500
+ 1:  autumn.net17 (172.17.1.19)                             0.324ms reached
+ 1:  autumn.net17 (172.17.1.19)                             0.140ms reached
+     Resume: pmtu 1500 hops 1 back 64 
+
+======================================================================================
+Scanning "net18" network by IP addresses
+======================================================================================
+Host with IP address 172.18.1.1 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.2 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.3 is reachable from spring
+IP address 172.18.1.3 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.18.1.3 (arp:) from 172.18.1.3 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.265ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.363ms 
+ 1:  january.net17 (172.17.1.1)                             0.149ms 
+ 2:  december.net18 (172.18.1.12)                           0.765ms asymm  3 
+ 3:  march.net18 (172.18.1.3)                               0.452ms reached
+     Resume: pmtu 1500 hops 3 back 63 
+
+Host with IP address 172.18.1.4 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.5 is reachable from spring
+IP address 172.18.1.5 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.18.1.5 (arp:) from 172.18.1.5 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.179ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.303ms 
+ 1:  january.net17 (172.17.1.1)                             0.239ms 
+ 2:  december.net18 (172.18.1.12)                           0.558ms asymm  3 
+ 3:  may.net18 (172.18.1.5)                                 0.584ms reached
+     Resume: pmtu 1500 hops 3 back 62 
+
+Host with IP address 172.18.1.6 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.7 is reachable from spring
+IP address 172.18.1.7 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.18.1.7 (arp:) from 172.18.1.7 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.192ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.387ms 
+ 1:  january.net17 (172.17.1.1)                             0.124ms 
+ 2:  december.net18 (172.18.1.12)                           0.584ms asymm  3 
+ 3:  july.net18 (172.18.1.7)                                0.675ms reached
+     Resume: pmtu 1500 hops 3 back 62 
+
+Host with IP address 172.18.1.8 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.9 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.10 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.11 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.12 is reachable from spring
+IP address 172.18.1.12 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.18.1.12 (arp:) from 172.18.1.12 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.224ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.278ms 
+ 1:  january.net17 (172.17.1.1)                             0.144ms 
+ 2:  december.net18 (172.18.1.12)                           0.596ms reached
+     Resume: pmtu 1500 hops 2 back 62 
+
+Host with IP address 172.18.1.13 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.14 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.15 is reachable from spring
+IP address 172.18.1.15 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.18.1.15 (arp:) from 172.18.1.15 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.158ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.333ms 
+ 1:  january.net17 (172.17.1.1)                             0.112ms 
+ 2:  december.net18 (172.18.1.12)                           0.541ms asymm  3 
+ 3:  winter.net18 (172.18.1.15)                             0.467ms reached
+     Resume: pmtu 1500 hops 3 back 62 
+
+Host with IP address 172.18.1.16 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.17 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.18 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.19 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.20 is not reachable from spring or is not part of net18 network
+
+Host with IP address 172.18.1.21 is not reachable from spring or is not part of net18 network
+
+======================================================================================
+Scanning "net18" network by hostnames
+======================================================================================
+Host january.net18 is not reachable from spring or is not part of net18 network
+
+Host february.net18 is not reachable from spring or is not part of net18 network
+
+Host with hostname "march.net18" is reachable from spring
+Host "march.net18" belongs to "net18" network with Ethernet address entries over interface found. and IP address 172.18.1.3 
+Path to reach "march.net18" (arp:) on subnetwork net18 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.190ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.360ms 
+ 1:  january.net17 (172.17.1.1)                             0.200ms 
+ 2:  december.net18 (172.18.1.12)                           0.603ms asymm  3 
+ 3:  march.net18 (172.18.1.3)                               0.443ms reached
+     Resume: pmtu 1500 hops 3 back 63 
+
+Host april.net18 is not reachable from spring or is not part of net18 network
+
+Host with hostname "may.net18" is reachable from spring
+Host "may.net18" belongs to "net18" network with Ethernet address entries over interface found. and IP address 172.18.1.5 
+Path to reach "may.net18" (arp:) on subnetwork net18 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.169ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.246ms 
+ 1:  january.net17 (172.17.1.1)                             0.176ms 
+ 2:  december.net18 (172.18.1.12)                           0.580ms asymm  3 
+ 3:  may.net18 (172.18.1.5)                                 0.520ms reached
+     Resume: pmtu 1500 hops 3 back 62 
+
+Host june.net18 is not reachable from spring or is not part of net18 network
+
+Host with hostname "july.net18" is reachable from spring
+Host "july.net18" belongs to "net18" network with Ethernet address entries over interface found. and IP address 172.18.1.7 
+Path to reach "july.net18" (arp:) on subnetwork net18 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.186ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.262ms 
+ 1:  january.net17 (172.17.1.1)                             0.162ms 
+ 2:  december.net18 (172.18.1.12)                           0.601ms asymm  3 
+ 3:  july.net18 (172.18.1.7)                                0.618ms reached
+     Resume: pmtu 1500 hops 3 back 62 
+
+Host august.net18 is not reachable from spring or is not part of net18 network
+
+Host september.net18 is not reachable from spring or is not part of net18 network
+
+Host october.net18 is not reachable from spring or is not part of net18 network
+
+Host november.net18 is not reachable from spring or is not part of net18 network
+
+Host with hostname "december.net18" is reachable from spring
+Host "december.net18" belongs to "net18" network with Ethernet address entries over interface found. and IP address 172.18.1.12 
+Path to reach "december.net18" (arp:) on subnetwork net18 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.150ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.313ms 
+ 1:  january.net17 (172.17.1.1)                             0.326ms 
+ 2:  december.net18 (172.18.1.12)                           0.780ms reached
+     Resume: pmtu 1500 hops 2 back 62 
+
+Host summer.net18 is not reachable from spring or is not part of net18 network
+
+Host fall.net18 is not reachable from spring or is not part of net18 network
+
+Host with hostname "winter.net18" is reachable from spring
+Host "winter.net18" belongs to "net18" network with Ethernet address entries over interface found. and IP address 172.18.1.15 
+Path to reach "winter.net18" (arp:) on subnetwork net18 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.141ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.275ms 
+ 1:  january.net17 (172.17.1.1)                             0.147ms 
+ 2:  december.net18 (172.18.1.12)                           0.658ms asymm  3 
+ 3:  winter.net18 (172.18.1.15)                             0.607ms reached
+     Resume: pmtu 1500 hops 3 back 62 
+
+Host equinox.net18 is not reachable from spring or is not part of net18 network
+
+Host solstice.net18 is not reachable from spring or is not part of net18 network
+
+Host year.net18 is not reachable from spring or is not part of net18 network
+
+Host autumn.net18 is not reachable from spring or is not part of net18 network
+
+======================================================================================
+Scanning "net19" network by IP addresses
+======================================================================================
+Host with IP address 172.19.1.1 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.2 is reachable from spring
+IP address 172.19.1.2 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.19.1.2 (arp:) from 172.19.1.2 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.179ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.362ms 
+ 1:  january.net17 (172.17.1.1)                             0.170ms 
+ 2:  december.net18 (172.18.1.12)                           0.795ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.674ms asymm  2 
+ 4:  february.net19 (172.19.1.2)                            0.631ms reached
+     Resume: pmtu 1500 hops 4 back 64 
+
+Host with IP address 172.19.1.3 is reachable from spring
+IP address 172.19.1.3 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.19.1.3 (arp:) from 172.19.1.3 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.154ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.289ms 
+ 1:  january.net17 (172.17.1.1)                             0.102ms 
+ 2:  december.net18 (172.18.1.12)                           0.563ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.517ms reached
+     Resume: pmtu 1500 hops 3 back 63 
+
+Host with IP address 172.19.1.4 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.5 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.6 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.7 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.8 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.9 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.10 is reachable from spring
+IP address 172.19.1.10 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.19.1.10 (arp:) from 172.19.1.10 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.165ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.344ms 
+ 1:  january.net17 (172.17.1.1)                             0.151ms 
+ 2:  december.net18 (172.18.1.12)                           0.529ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.369ms asymm  2 
+ 4:  october.net19 (172.19.1.10)                            0.615ms reached
+     Resume: pmtu 1500 hops 4 back 63 
+
+Host with IP address 172.19.1.11 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.12 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.13 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.14 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.15 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.16 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.17 is reachable from spring
+IP address 172.19.1.17 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.19.1.17 (arp:) from 172.19.1.17 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.171ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.277ms 
+ 1:  january.net17 (172.17.1.1)                             0.156ms 
+ 2:  december.net18 (172.18.1.12)                           0.582ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.383ms asymm  2 
+ 4:  solstice.net19 (172.19.1.17)                           0.640ms reached
+     Resume: pmtu 1500 hops 4 back 63 
+
+Host with IP address 172.19.1.18 is reachable from spring
+IP address 172.19.1.18 belongs to arp: with Ethernet address entries over interface found. 
+Path to reach IP address 172.19.1.18 (arp:) from 172.19.1.18 (spring) is:
+ 1:  spring.net17 (172.17.1.20)                             0.172ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.405ms 
+ 1:  january.net17 (172.17.1.1)                             0.186ms 
+ 2:  december.net18 (172.18.1.12)                           0.825ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.777ms asymm  2 
+ 4:  year.net19 (172.19.1.18)                               0.646ms reached
+     Resume: pmtu 1500 hops 4 back 63 
+
+Host with IP address 172.19.1.19 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.20 is not reachable from spring or is not part of net19 network
+
+Host with IP address 172.19.1.21 is not reachable from spring or is not part of net19 network
+
+======================================================================================
+Scanning "net19" network by hostnames
+======================================================================================
+Host january.net19 is not reachable from spring or is not part of net19 network
+
+Host with hostname "february.net19" is reachable from spring
+Host "february.net19" belongs to "net19" network with Ethernet address entries over interface found. and IP address 172.19.1.2 
+Path to reach "february.net19" (arp:) on subnetwork net19 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.172ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.236ms 
+ 1:  january.net17 (172.17.1.1)                             0.131ms 
+ 2:  december.net18 (172.18.1.12)                           0.587ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.421ms asymm  2 
+ 4:  february.net19 (172.19.1.2)                            0.331ms reached
+     Resume: pmtu 1500 hops 4 back 64 
+
+Host with hostname "march.net19" is reachable from spring
+Host "march.net19" belongs to "net19" network with Ethernet address entries over interface found. and IP address 172.19.1.3 
+Path to reach "march.net19" (arp:) on subnetwork net19 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.152ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.497ms 
+ 1:  january.net17 (172.17.1.1)                             0.141ms 
+ 2:  december.net18 (172.18.1.12)                           0.794ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.528ms reached
+     Resume: pmtu 1500 hops 3 back 63 
+
+Host april.net19 is not reachable from spring or is not part of net19 network
+
+Host may.net19 is not reachable from spring or is not part of net19 network
+
+Host june.net19 is not reachable from spring or is not part of net19 network
+
+Host july.net19 is not reachable from spring or is not part of net19 network
+
+Host august.net19 is not reachable from spring or is not part of net19 network
+
+Host september.net19 is not reachable from spring or is not part of net19 network
+
+Host with hostname "october.net19" is reachable from spring
+Host "october.net19" belongs to "net19" network with Ethernet address entries over interface found. and IP address 172.19.1.10 
+Path to reach "october.net19" (arp:) on subnetwork net19 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.160ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.229ms 
+ 1:  january.net17 (172.17.1.1)                             0.140ms 
+ 2:  december.net18 (172.18.1.12)                           0.668ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.711ms asymm  2 
+ 4:  october.net19 (172.19.1.10)                            0.854ms reached
+     Resume: pmtu 1500 hops 4 back 63 
+
+Host november.net19 is not reachable from spring or is not part of net19 network
+
+Host december.net19 is not reachable from spring or is not part of net19 network
+
+Host summer.net19 is not reachable from spring or is not part of net19 network
+
+Host fall.net19 is not reachable from spring or is not part of net19 network
+
+Host winter.net19 is not reachable from spring or is not part of net19 network
+
+Host equinox.net19 is not reachable from spring or is not part of net19 network
+
+Host with hostname "solstice.net19" is reachable from spring
+Host "solstice.net19" belongs to "net19" network with Ethernet address entries over interface found. and IP address 172.19.1.17 
+Path to reach "solstice.net19" (arp:) on subnetwork net19 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.150ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.301ms 
+ 1:  january.net17 (172.17.1.1)                             0.171ms 
+ 2:  december.net18 (172.18.1.12)                           0.806ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.624ms asymm  2 
+ 4:  solstice.net19 (172.19.1.17)                           0.736ms reached
+     Resume: pmtu 1500 hops 4 back 63 
+
+Host with hostname "year.net19" is reachable from spring
+Host "year.net19" belongs to "net19" network with Ethernet address entries over interface found. and IP address 172.19.1.18 
+Path to reach "year.net19" (arp:) on subnetwork net19 from "spring" on subnetwork  is:
+ 1:  spring.net17 (172.17.1.20)                             0.150ms pmtu 1500
+ 1:  january.net17 (172.17.1.1)                             0.368ms 
+ 1:  january.net17 (172.17.1.1)                             0.244ms 
+ 2:  december.net18 (172.18.1.12)                           0.783ms asymm  3 
+ 3:  march.net19 (172.19.1.3)                               0.518ms asymm  2 
+ 4:  year.net19 (172.19.1.18)                               0.686ms reached
+     Resume: pmtu 1500 hops 4 back 63 
+
+Host autumn.net19 is not reachable from spring or is not part of net19 network
+
+
+======================================================================================
+Testing IPv6 addresses
+======================================================================================
+Host with IP address 2002:ac10:10c:118:250:56ff:fea4:2fa3 is reachable from spring
+Path to host with IP address 2002:ac10:10c:118:250:56ff:fea4:2fa3 is: 
+ 1?: [LOCALHOST]                      pmtu 1500
+ 1:  2002:ac13:102::1                           2.787ms asymm  2 
+ 1:  2002:ac13:102::1                           0.228ms asymm  2 
+ 2:  2002:ac13:102::1                           0.376ms pmtu 1480
+ 2:  2002:ac10:10c::1                           0.429ms 
+ 2:  2002:ac10:10c::1                           0.313ms 
+ 3:  2002:ac10:10c:118:250:56ff:fea4:2fa3       0.777ms reached
+     Resume: pmtu 1480 hops 3 back 62 
+Host with IP address 2002:ac10:101:117:250:56ff:fea4:58ac is reachable from spring
+Path to host with IP address 2002:ac10:101:117:250:56ff:fea4:58ac is: 
+ 1?: [LOCALHOST]                      pmtu 1500
+ 1:  2002:ac13:102::1                           2.757ms asymm  2 
+ 1:  2002:ac13:102::1                           0.283ms asymm  2 
+ 2:  2002:ac13:102::1                           0.407ms pmtu 1480
+ 2:  2002:ac10:101:117::1                       0.476ms asymm  1 
+ 2:  2002:ac10:101:117::1                       0.270ms asymm  1 
+ 3:  2002:ac10:101:117:250:56ff:fea4:58ac       0.656ms reached
+     Resume: pmtu 1480 hops 3 back 62 

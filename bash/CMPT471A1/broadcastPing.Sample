@@ -1,0 +1,18 @@
+Address                  HWtype  HWaddress           Flags Mask            Iface
+rem-main-5.rem.sfu.ca    ether   00:17:f2:02:c2:7a   C                     eth0
+ops01685.mps.sfu.ca      ether   00:20:6b:7d:a6:68   C                     eth0
+rem-fisheries.rem.sfu.c  ether   00:c0:9f:0f:04:b8   C                     eth0
+greenhouse.biol.sfu.ca   ether   34:15:9e:11:a4:30   C                     eth0
+november.admin           ether   00:50:56:a4:2b:44   C                     eth1
+d142-58-21-181.burnaby.  ether   c4:2c:03:39:e7:95   C                     eth0
+142.58.21.254            ether   00:11:88:16:07:3b   C                     eth0
+may.admin                ether   00:50:56:a4:26:e9   C                     eth1
+rem-main-2.rem.sfu.ca    ether   00:0f:1f:f8:c4:c1   C                     eth0
+tasc7209hp.earth.sfu.ca  ether   00:11:85:da:60:d1   C                     eth0
+seasons.admin            ether   00:50:56:85:40:3b   C                     eth1
+d142-58-21-223.burnaby.  ether   d8:30:62:48:39:cd   C                     eth0
+tasc9003-06.cmpt.sfu.ca  ether   00:01:e6:e1:ca:ca   C                     eth0
+tasc8001.cmpt.sfu.ca     ether   00:13:46:47:36:eb   C                     eth0
+bby-tasc1-8108-ups-1.ne  ether   00:e0:d8:0d:d7:ce   C                     eth0
+april.admin              ether   00:50:56:a4:4c:9d   C                     eth1
+cs-vnl-fs.csil.sfu.ca    ether   00:50:56:a4:00:47   C                     eth0
