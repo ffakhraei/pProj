@@ -6,8 +6,11 @@ if __name__ == "__main__":
         print "Wrong Usage"
         exit(1) 
 
-    #arg = int(sys.argv[1])
-    arg = sys.argv[1]
+# DEBUG 
+    print sys.argv
+# DEBUG END
+
+    arg = int(sys.argv[1])
 
     def printAst(arg):
         """
@@ -17,15 +20,7 @@ if __name__ == "__main__":
        
         usage: python fact.py arg
         """    
-        tempMax = 0
-        realMax = 0
-        for i in arg:
-            if i == '0':
-                tempMax+=1
-                if tempMax > realMax:
-                    realMax = tempMax
-            else:
-                tempMax = 0
-        print realMax
+        for i in range(arg, 0, -1): 
+            print 2*(arg-i)*' ', (2*i-1)*'* ' 
 
     printAst(arg)            
