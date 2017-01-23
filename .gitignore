@@ -1,3 +1,9 @@
+# Python pyc
+*.pyc
+
+# vim swap
+*.swp
+
 # Compiled Object files
 *.slo
 *.lo
