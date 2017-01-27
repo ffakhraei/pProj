@@ -1,5 +1,13 @@
 #!/bin/env/python
 
+""" works as intended -- 
+
+Algorithm for solution is incorrect.
+
+    only works in special cases.
+
+"""
+
 H=[3,2,1]
 H=[8,8,5,7,9,8,7,4,8]
 
@@ -38,10 +46,12 @@ def crumble(myList) :
 def solution(H) :
     global islandList
     global counter
+
     if len(H) == 0 :
         return 0
-    crumbled = crumble(H)
-    islands = group(crumbled)
+    islands = [H]
+    #crumbled = crumble(H)
+    #islands = group(crumbled)
     while len(islands) > 0 :
         while len(islands) > 1 :
             islandList.append(islands.pop())
